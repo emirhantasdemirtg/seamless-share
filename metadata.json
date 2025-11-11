@@ -1,0 +1,5 @@
+{
+  "name": "Offline Screen Share",
+  "description": "A cross-platform, offline screen sharing system. A Python-based server application for Windows acts as a viewer, receiving screen streams from Flutter-based mobile clients for Android and iOS via a local WebSocket connection.",
+  "requestFramePermissions": []
+}
